@@ -1,2 +1,2 @@
 # Viounique-app
-People with severe food allergies often worry about unknown ingredients that may cause serious health problems. SafeEats is a mobile tool that scans product barcodes and retrieves ingredient information from Open Food Facts.
+During disasters, information is often scattered and not updated quickly. This can cause duplicate reports and delays, making it harder for rescue teams to help people who need urgent assistance.
